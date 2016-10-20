@@ -1,5 +1,11 @@
+---
 BasedOnStyle: LLVM
 IndentWidth: 4
 AlignTrailingComments: true
 ColumnLimit: 0
 ObjCSpaceAfterProperty: true
+ObjCBlockIndentWidth: 4
+SpacesInContainerLiterals: false
+SpacesInSquareBrackets: false
+IndentCaseLabels: true
+...
